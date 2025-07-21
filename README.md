@@ -13,7 +13,7 @@ This is a simple simulation of the solar system using Python and Pygame. It was 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/alex-0001/planets.git
+git clone https://github.com/ItsKil0byte/planets.git
 ```
 
 2. Navigate to the project directory:
@@ -49,7 +49,7 @@ python main.py
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/alex-0001/planets.git
+git clone https://github.com/ItsKil0byte/planets.git
 ```
 
 2. Перейдите в директорию проекта:
